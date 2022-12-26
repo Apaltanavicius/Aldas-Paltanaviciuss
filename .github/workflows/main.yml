@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+
+
+* {
+
+    margin: 0;
+
+    padding: 0;
+
+    font-family: lato;
+
+}
+
+
+
+body {
+
+    min-height: 100vh;
+
+    background: linear-gradient(#a18cd1, #f8c0ea);
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+
+
+main {
+
+    display: flex;
+
+}
+
+
+
+img {
+
+    width: 300px;
+
+}
+
+
+
+form {
+
+    width: 300px;
+
+    background: black;
+
+    color: white;
+
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: space-around;
+
+    padding: 50px;
+
+    box-sizing: border-box;
+
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background: black; color: white; font-size: 1.5em">
+<h1>Coldplay</h1>
+<img         style="object-fit: cover;"
+width="300"
+height="200" src="nuotrauka2.avif" alt="nuotrauka2">
+<a href="https://www.viagogo.com/ww/Concert-Tickets/Alternative-and-Indie/Coldplay-Tickets?AffiliateID=49&adposition=&PCID=PSROWGOOCONCOLDP8F12E981D&AdID=603686108103&MetroRegionID=&psc=%2c&ps=%2c&ps_p=0&ps_c=13568449639&ps_ag=124531835755&ps_tg=kwd-17627303&ps_ad=603686108103&ps_adp=%2c&ps_fi=%2c&ps_li=%2c&ps_lp=9062286&ps_n=g&ps_d=c&gclid=CjwKCAiAqaWdBhAvEiwAGAQltg4I1rjBEHm75WCV1tUF4AB-gTvkekUrfFSFXL4gr81y7Wb6Yg8VrhoCBSAQAvD_BwE"
+         target="_blank" ><h2>Bilietus pirkti i norima koncerta!</h2> </a>
+<a href="https://www.google.com/maps/search/Morumbi+Stadium,+S%C3%A3o+Paulo,+Brazil/@-23.5998353,-46.7218071,17z/data=!3m1!4b1"
+         target="_blank" ><h2>Artimiausias Coldplay koncertas vyks cia!</h2> </a>
+
+
+
+<p>Kelios nuotraukos is Coldplay koncertu</p>
+<img         style="object-fit: cover;"
+width="300"
+height="200" src="nuotrauka3.avif" alt="nuotrauka3">
+<img         style="object-fit: cover;"
+width="300"
+height="200" src="nuotrauka4.avif" alt="nuotrauka4"> 
+<p>Keli kieciausi Coldplay grupes muzikiniai klipai</p>
+        <video width="320" height="240" controls>
+            <source src="video1.mp4.mp4" type="video/mp4">
+            <source src="video1.mp4.mp4" type="video1">
+            Your browser does not support the video tag.
+          </video>
+
+        <video width="320" height="240" controls>
+            <source src="video2.mp4.mp4" type="video/mp4">
+            <source src="video2.mp4.mp4" type="video2">
+            Your browser does not support the video tag.
+          </video>
+
+        <video width="320" height="240" controls>
+            <source src="video3.mp4.mp4" type="video/mp4">
+            <source src="video3.mp4.mp4" type="video3">
+            Your browser does not support the video tag.
+          </video>
+ 
+</body>
+</html>
